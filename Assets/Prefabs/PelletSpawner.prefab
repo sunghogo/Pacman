@@ -44,14 +44,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f93cf52a2f7d4abe9647a9d7528ff1a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pelletPrefab: {fileID: 4787047601019030115, guid: fbf78eb7b9e5a4f839420297ebd3da35, type: 3}
-  gridWidth: 28
-  gridHeight: 29
-  spacing: 0.5
-  boxSize: {x: 0.5, y: 0.5}
-  _obstaclesLayer:
-    serializedVersion: 2
-    m_Bits: 0
-  _noSpawnsLayer:
-    serializedVersion: 2
-    m_Bits: 0
+  _pelletPrefab: {fileID: 4787047601019030115, guid: fbf78eb7b9e5a4f839420297ebd3da35, type: 3}

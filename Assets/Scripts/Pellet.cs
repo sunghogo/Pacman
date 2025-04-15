@@ -1,12 +1,11 @@
-
 using UnityEngine;
 
 public class Pellet : MonoBehaviour
 {
-    public float eatDistance;
+    [SerializeField] private float _eatDistance;
     void Start()
     {
-        eatDistance = 0.25f;   
+        _eatDistance = 0.25f;   
     }
     private void EatPellet() {
        Destroy(gameObject);
@@ -17,7 +16,7 @@ public class Pellet : MonoBehaviour
         if (isCollidingWithPacman) {
             Vector2 pacmanPosition = other.gameObject.GetComponent<Collider2D>().bounds.center;
             Vector2 pelletPosition = transform.position;
-            bool isWithinDistance = Vector2.Distance(pacmanPosition, pelletPosition) <= eatDistance;
+            bool isWithinDistance = Vector2.Distance(pacmanPosition, pelletPosition) <= _eatDistance;
             if (isWithinDistance) EatPellet();
         }
     }
