@@ -10,10 +10,10 @@ GameObject:
   m_Component:
   - component: {fileID: 6716962104713409180}
   - component: {fileID: 1485766716351976983}
+  - component: {fileID: 6789195466083676585}
   - component: {fileID: 403168838438220497}
   - component: {fileID: 5180353390250888115}
   - component: {fileID: 8324092423215407663}
-  - component: {fileID: 6789195466083676585}
   m_Layer: 0
   m_Name: Pacman
   m_TagString: Pacman
@@ -88,6 +88,24 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &6789195466083676585
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4741456150373189583}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6990032de0bcf5346bdb1f61ec90a1d7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _moveSpeed: 5
+  _moveVector: {x: 0, y: 0}
+  _nextMoveVector: {x: 0, y: 0}
+  _animator: {fileID: 0}
+  _rigidbody: {fileID: 0}
+  _rayLength: 0.05
 --- !u!95 &403168838438220497
 Animator:
   serializedVersion: 5
@@ -181,19 +199,3 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.9375, y: 0.9375}
   m_EdgeRadius: 0
---- !u!114 &6789195466083676585
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4741456150373189583}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6990032de0bcf5346bdb1f61ec90a1d7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _moveSpeed: 5
-  _animator: {fileID: 0}
-  _rigidbody: {fileID: 0}
-  _rayLength: 0.05

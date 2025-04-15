@@ -497,10 +497,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c62e8cda4982864fafe9cbefffac202, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 0
-  _direction: {x: 0, y: 0}
-  _nextDirection: {x: 0, y: 0}
-  animator: {fileID: 0}
+  _moveSpeed: 0
+  _animator: {fileID: 0}
   _rayLength: 0
 --- !u!1001 &1126911106059348522
 PrefabInstance:
@@ -610,6 +608,10 @@ PrefabInstance:
     - target: {fileID: 6716962104713409180, guid: 23d1303ee3f1241a98ad61f166f966d6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6789195466083676585, guid: 23d1303ee3f1241a98ad61f166f966d6, type: 3}
+      propertyPath: _rayLength
+      value: 0.04
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

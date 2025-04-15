@@ -28,7 +28,7 @@ public class PelletSpawner : MonoBehaviour
             {
                 Vector3 position = new Vector3(transform.position.x + x * spacing, transform.position.y + y * spacing, -1);
                 bool isValidSpawn = !Physics2D.OverlapBox(position, boxSize, 0f, _obstaclesLayer) && !Physics2D.OverlapBox(position, boxSize, 0f, _noSpawnsLayer);
-                if (isValidSpawn) Instantiate(pelletPrefab, position, Quaternion.identity);
+                if (isValidSpawn) Instantiate(pelletPrefab, position, Quaternion.identity, transform);
             }
         }
     }
