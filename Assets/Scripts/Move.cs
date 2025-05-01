@@ -40,7 +40,7 @@ public class Move : MonoBehaviour
     }
 
     void Start() {
-        _moveSpeed = 5f;
+        _moveSpeed = 4f;
         _moveVector = _nextMoveVector = Vector2.zero;
         _playerDirection = _nextPlayerDirection = Direction.Right;
         _rayLength = 0.05f;
@@ -49,6 +49,8 @@ public class Move : MonoBehaviour
         _obstaclesLayer = LayerMask.GetMask("Obstacles");
         _spriteRenderer = GetComponent<SpriteRenderer>();
         _isMirroring = false;
+
+        _animator.speed = 2.0f;
     }
 
     void OnDrawGizmos() {
@@ -86,7 +88,7 @@ public class Move : MonoBehaviour
     
     void FixedUpdate()
     {
-        if (GameManager.Instance.isStarted) {
+        if (GameManager.isStarted) {
             if (_moveVector == Vector2.zero) {
                 _animator.enabled = false;
             } else {

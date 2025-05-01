@@ -3,8 +3,19 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance { get; private set;}
-    public bool isStarted { get; private set; }
-    
+    public static uint score { get; private set;}
+    public static uint highScore { get; private set;}
+    public static bool isStarted { get; private set; }
+
+    public static void StartGame()
+    {
+        isStarted = true;   
+    }
+
+    public static void IncrementScore(uint n) {
+        score += n;
+    }
+
     void Awake()
     {
         if (Instance == null) {
@@ -16,8 +27,11 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public void StartGame()
-    {
-        isStarted = true;   
+    void Start() {
+        score = highScore = 0;
+    }
+
+    void FixedUpdate() {
+        if (score > highScore) highScore = score;
     }
 }

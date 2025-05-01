@@ -10,8 +10,10 @@ public class Pellet : MonoBehaviour
         _collider2D = GetComponent<Collider2D>();
         _eatDistance = 0.25f;   
     }
+
     private void EatPellet() {
-       Destroy(gameObject);
+        GameManager.IncrementScore(10);
+        Destroy(gameObject);
     }
     
     void OnTriggerStay2D(Collider2D other) {

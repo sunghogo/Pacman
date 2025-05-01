@@ -22,7 +22,7 @@ public class BGM : MonoBehaviour
         _audioSource.Play();
         yield return new WaitWhile(() => _audioSource.isPlaying);
         NextClip();
-        GameManager.Instance.StartGame();
+        GameManager.StartGame();
     }
 
     IEnumerator PlaySiren() {
@@ -42,6 +42,6 @@ public class BGM : MonoBehaviour
 
     void Update()
     {
-        if (GameManager.Instance.isStarted && !_audioSource.isPlaying) StartCoroutine(PlaySiren());
+        if (GameManager.isStarted && !_audioSource.isPlaying) StartCoroutine(PlaySiren());
     }
 }
