@@ -396,7 +396,7 @@ GameObject:
   - component: {fileID: 8528743652800601938}
   - component: {fileID: 8469146937389687006}
   m_Layer: 6
-  m_Name: BG_collider (21)
+  m_Name: Left_Wall
   m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -616,7 +616,7 @@ GameObject:
   - component: {fileID: 9182590681528314142}
   - component: {fileID: 5057283663427170810}
   m_Layer: 6
-  m_Name: BG_collider (22)
+  m_Name: Right_Wall
   m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2709,9 +2709,7 @@ Transform:
   - {fileID: 6364423554901337368}
   - {fileID: 338853596395063375}
   - {fileID: 4097281156368767449}
-  - {fileID: 8528743652800601938}
   - {fileID: 6716805300432374909}
-  - {fileID: 9182590681528314142}
   - {fileID: 8718747592030937593}
   - {fileID: 7321483320494902836}
   - {fileID: 3977963927602117090}
@@ -2723,6 +2721,8 @@ Transform:
   - {fileID: 6309228905144918492}
   - {fileID: 6545144359131775872}
   - {fileID: 582357736073310939}
+  - {fileID: 8528743652800601938}
+  - {fileID: 9182590681528314142}
   - {fileID: 6939067164383712678}
   - {fileID: 94479108842696077}
   - {fileID: 6031662954732515956}

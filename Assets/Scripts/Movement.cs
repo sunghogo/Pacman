@@ -30,7 +30,7 @@ public class Movement : MonoBehaviour
 
     private RaycastHit2D boxCast(Vector2 direction) {
         Vector2 size = new Vector2(_spriteRenderer.bounds.size.x, _spriteRenderer.bounds.size.y);
-        Vector2 origin = _rigidbody.position + size / 2; // if pacman is offset
+        Vector2 origin = _rigidbody.position; // if pacman is offset
 
         return Physics2D.BoxCast(origin, size, 0f, direction, _rayLength, _obstaclesLayer);
     }
@@ -44,7 +44,7 @@ public class Movement : MonoBehaviour
     void OnDrawGizmos() {
         if (_rigidbody == null || _spriteRenderer == null) return;
         Vector2 size = new Vector2(_spriteRenderer.bounds.size.x, _spriteRenderer.bounds.size.y);
-        Vector2 origin = _rigidbody.position + size / 2; // if pacman is offset
+        Vector2 origin = _rigidbody.position; // if pacman is offset
         Vector2 endPoint = origin + (_direction * _rayLength);
 
         RaycastHit2D hit = boxCast(_direction);

@@ -705,7 +705,7 @@ BoxCollider2D:
   m_Offset: {x: 0.46875, y: 0.46875}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.9375, y: 0.9375}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
@@ -821,7 +821,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3072745914441129317, guid: 7823ee2a4bdad4852954dc55560bb838, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 26
+      value: 36
       objectReference: {fileID: 0}
     - target: {fileID: 3072745914441129317, guid: 7823ee2a4bdad4852954dc55560bb838, type: 3}
       propertyPath: m_SizeDelta.y
@@ -966,11 +966,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6716962104713409180, guid: 23d1303ee3f1241a98ad61f166f966d6, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6716962104713409180, guid: 23d1303ee3f1241a98ad61f166f966d6, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.45
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 6716962104713409180, guid: 23d1303ee3f1241a98ad61f166f966d6, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1011,6 +1011,14 @@ PrefabInstance:
     - target: {fileID: 6789195466083676585, guid: 23d1303ee3f1241a98ad61f166f966d6, type: 3}
       propertyPath: _rayLength
       value: 0.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 8324092423215407663, guid: 23d1303ee3f1241a98ad61f166f966d6, type: 3}
+      propertyPath: m_Offset.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8324092423215407663, guid: 23d1303ee3f1241a98ad61f166f966d6, type: 3}
+      propertyPath: m_Offset.y
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1226,7 +1234,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3759708681789651892, guid: 6caa222e849c3439d850c95b7d8dca69, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 26
+      value: 56
       objectReference: {fileID: 0}
     - target: {fileID: 3759708681789651892, guid: 6caa222e849c3439d850c95b7d8dca69, type: 3}
       propertyPath: m_SizeDelta.y

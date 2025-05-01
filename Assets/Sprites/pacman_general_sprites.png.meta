@@ -117,7 +117,7 @@ TextureImporter:
         y: 233
         width: 15
         height: 15
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -138,7 +138,7 @@ TextureImporter:
         y: 233
         width: 15
         height: 15
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -159,7 +159,7 @@ TextureImporter:
         y: 233
         width: 15
         height: 15
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -177,10 +177,10 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 50
-        y: 232
-        width: 16
-        height: 16
-      alignment: 9
+        y: 233
+        width: 15
+        height: 15
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -198,10 +198,10 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 66
-        y: 232
-        width: 16
-        height: 16
-      alignment: 9
+        y: 233
+        width: 15
+        height: 15
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -222,7 +222,7 @@ TextureImporter:
         y: 232
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -243,7 +243,7 @@ TextureImporter:
         y: 232
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -264,7 +264,7 @@ TextureImporter:
         y: 232
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -285,7 +285,7 @@ TextureImporter:
         y: 232
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -306,7 +306,7 @@ TextureImporter:
         y: 232
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -327,7 +327,7 @@ TextureImporter:
         y: 232
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -348,7 +348,7 @@ TextureImporter:
         y: 232
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -369,7 +369,7 @@ TextureImporter:
         y: 232
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -390,7 +390,7 @@ TextureImporter:
         y: 232
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -411,7 +411,7 @@ TextureImporter:
         y: 217
         width: 15
         height: 15
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -432,7 +432,7 @@ TextureImporter:
         y: 217
         width: 15
         height: 15
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -453,7 +453,7 @@ TextureImporter:
         y: 216
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -474,7 +474,7 @@ TextureImporter:
         y: 216
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -495,7 +495,7 @@ TextureImporter:
         y: 216
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -516,7 +516,7 @@ TextureImporter:
         y: 216
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -537,7 +537,7 @@ TextureImporter:
         y: 216
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -558,7 +558,7 @@ TextureImporter:
         y: 216
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -579,7 +579,7 @@ TextureImporter:
         y: 216
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -596,11 +596,11 @@ TextureImporter:
       name: pacman_general_sprites_23
       rect:
         serializedVersion: 2
-        x: 146
-        y: 216
-        width: 16
-        height: 16
-      alignment: 9
+        x: 2
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -617,11 +617,11 @@ TextureImporter:
       name: pacman_general_sprites_24
       rect:
         serializedVersion: 2
-        x: 162
-        y: 216
-        width: 16
-        height: 16
-      alignment: 9
+        x: 18
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -638,11 +638,11 @@ TextureImporter:
       name: pacman_general_sprites_25
       rect:
         serializedVersion: 2
-        x: 178
-        y: 216
+        x: 34
+        y: 200
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -659,11 +659,11 @@ TextureImporter:
       name: pacman_general_sprites_26
       rect:
         serializedVersion: 2
-        x: 194
-        y: 216
+        x: 50
+        y: 200
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -680,11 +680,11 @@ TextureImporter:
       name: pacman_general_sprites_27
       rect:
         serializedVersion: 2
-        x: 210
-        y: 216
+        x: 66
+        y: 200
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -701,11 +701,11 @@ TextureImporter:
       name: pacman_general_sprites_28
       rect:
         serializedVersion: 2
-        x: 2
-        y: 201
-        width: 15
-        height: 15
-      alignment: 9
+        x: 82
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -722,11 +722,11 @@ TextureImporter:
       name: pacman_general_sprites_29
       rect:
         serializedVersion: 2
-        x: 18
-        y: 201
-        width: 15
-        height: 15
-      alignment: 9
+        x: 98
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -743,11 +743,11 @@ TextureImporter:
       name: pacman_general_sprites_30
       rect:
         serializedVersion: 2
-        x: 34
+        x: 114
         y: 200
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -764,11 +764,11 @@ TextureImporter:
       name: pacman_general_sprites_31
       rect:
         serializedVersion: 2
-        x: 50
-        y: 200
-        width: 16
-        height: 16
-      alignment: 9
+        x: 2
+        y: 185
+        width: 15
+        height: 15
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -785,11 +785,11 @@ TextureImporter:
       name: pacman_general_sprites_32
       rect:
         serializedVersion: 2
-        x: 66
-        y: 200
-        width: 16
-        height: 16
-      alignment: 9
+        x: 18
+        y: 185
+        width: 15
+        height: 15
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -806,11 +806,11 @@ TextureImporter:
       name: pacman_general_sprites_33
       rect:
         serializedVersion: 2
-        x: 82
-        y: 200
+        x: 34
+        y: 184
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -827,11 +827,11 @@ TextureImporter:
       name: pacman_general_sprites_34
       rect:
         serializedVersion: 2
-        x: 98
-        y: 200
+        x: 50
+        y: 184
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -848,11 +848,11 @@ TextureImporter:
       name: pacman_general_sprites_35
       rect:
         serializedVersion: 2
-        x: 114
-        y: 200
+        x: 66
+        y: 184
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -869,11 +869,11 @@ TextureImporter:
       name: pacman_general_sprites_36
       rect:
         serializedVersion: 2
-        x: 130
-        y: 200
+        x: 82
+        y: 184
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -890,11 +890,11 @@ TextureImporter:
       name: pacman_general_sprites_37
       rect:
         serializedVersion: 2
-        x: 146
-        y: 200
+        x: 98
+        y: 184
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -911,11 +911,11 @@ TextureImporter:
       name: pacman_general_sprites_38
       rect:
         serializedVersion: 2
-        x: 162
-        y: 200
+        x: 114
+        y: 184
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -932,11 +932,11 @@ TextureImporter:
       name: pacman_general_sprites_39
       rect:
         serializedVersion: 2
-        x: 178
-        y: 200
+        x: 130
+        y: 184
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -953,11 +953,11 @@ TextureImporter:
       name: pacman_general_sprites_40
       rect:
         serializedVersion: 2
-        x: 194
-        y: 200
+        x: 146
+        y: 184
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -974,11 +974,11 @@ TextureImporter:
       name: pacman_general_sprites_41
       rect:
         serializedVersion: 2
-        x: 210
-        y: 200
+        x: 2
+        y: 168
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -995,11 +995,11 @@ TextureImporter:
       name: pacman_general_sprites_42
       rect:
         serializedVersion: 2
-        x: 2
-        y: 185
-        width: 15
-        height: 15
-      alignment: 9
+        x: 18
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1016,11 +1016,11 @@ TextureImporter:
       name: pacman_general_sprites_43
       rect:
         serializedVersion: 2
-        x: 18
-        y: 185
-        width: 15
-        height: 15
-      alignment: 9
+        x: 34
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1037,11 +1037,11 @@ TextureImporter:
       name: pacman_general_sprites_44
       rect:
         serializedVersion: 2
-        x: 34
-        y: 184
+        x: 50
+        y: 168
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1058,11 +1058,11 @@ TextureImporter:
       name: pacman_general_sprites_45
       rect:
         serializedVersion: 2
-        x: 50
-        y: 184
+        x: 66
+        y: 168
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1079,11 +1079,11 @@ TextureImporter:
       name: pacman_general_sprites_46
       rect:
         serializedVersion: 2
-        x: 66
-        y: 184
+        x: 82
+        y: 168
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1100,11 +1100,11 @@ TextureImporter:
       name: pacman_general_sprites_47
       rect:
         serializedVersion: 2
-        x: 82
-        y: 184
+        x: 98
+        y: 168
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1121,11 +1121,11 @@ TextureImporter:
       name: pacman_general_sprites_48
       rect:
         serializedVersion: 2
-        x: 98
-        y: 184
+        x: 114
+        y: 168
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1142,11 +1142,11 @@ TextureImporter:
       name: pacman_general_sprites_49
       rect:
         serializedVersion: 2
-        x: 114
-        y: 184
+        x: 130
+        y: 168
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1163,11 +1163,11 @@ TextureImporter:
       name: pacman_general_sprites_50
       rect:
         serializedVersion: 2
-        x: 130
-        y: 184
+        x: 146
+        y: 168
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1184,11 +1184,11 @@ TextureImporter:
       name: pacman_general_sprites_51
       rect:
         serializedVersion: 2
-        x: 146
-        y: 184
+        x: 162
+        y: 168
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1205,11 +1205,11 @@ TextureImporter:
       name: pacman_general_sprites_52
       rect:
         serializedVersion: 2
-        x: 162
-        y: 184
+        x: 178
+        y: 168
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1226,11 +1226,11 @@ TextureImporter:
       name: pacman_general_sprites_53
       rect:
         serializedVersion: 2
-        x: 178
-        y: 184
+        x: 2
+        y: 152
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1247,11 +1247,11 @@ TextureImporter:
       name: pacman_general_sprites_54
       rect:
         serializedVersion: 2
-        x: 194
-        y: 184
+        x: 18
+        y: 152
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1268,11 +1268,11 @@ TextureImporter:
       name: pacman_general_sprites_55
       rect:
         serializedVersion: 2
-        x: 210
-        y: 184
+        x: 34
+        y: 152
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1289,11 +1289,11 @@ TextureImporter:
       name: pacman_general_sprites_56
       rect:
         serializedVersion: 2
-        x: 2
-        y: 168
+        x: 50
+        y: 152
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1310,11 +1310,11 @@ TextureImporter:
       name: pacman_general_sprites_57
       rect:
         serializedVersion: 2
-        x: 18
-        y: 168
+        x: 66
+        y: 152
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1331,11 +1331,11 @@ TextureImporter:
       name: pacman_general_sprites_58
       rect:
         serializedVersion: 2
-        x: 34
-        y: 168
+        x: 82
+        y: 152
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1352,11 +1352,11 @@ TextureImporter:
       name: pacman_general_sprites_59
       rect:
         serializedVersion: 2
-        x: 50
-        y: 168
+        x: 98
+        y: 152
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1373,11 +1373,11 @@ TextureImporter:
       name: pacman_general_sprites_60
       rect:
         serializedVersion: 2
-        x: 66
-        y: 168
+        x: 114
+        y: 152
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1394,11 +1394,11 @@ TextureImporter:
       name: pacman_general_sprites_61
       rect:
         serializedVersion: 2
-        x: 82
-        y: 168
+        x: 130
+        y: 152
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1415,11 +1415,11 @@ TextureImporter:
       name: pacman_general_sprites_62
       rect:
         serializedVersion: 2
-        x: 98
-        y: 168
+        x: 146
+        y: 152
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1436,11 +1436,11 @@ TextureImporter:
       name: pacman_general_sprites_63
       rect:
         serializedVersion: 2
-        x: 114
-        y: 168
+        x: 162
+        y: 152
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1457,11 +1457,11 @@ TextureImporter:
       name: pacman_general_sprites_64
       rect:
         serializedVersion: 2
-        x: 130
-        y: 168
+        x: 178
+        y: 152
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1478,11 +1478,11 @@ TextureImporter:
       name: pacman_general_sprites_65
       rect:
         serializedVersion: 2
-        x: 146
-        y: 168
+        x: 2
+        y: 136
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1499,11 +1499,11 @@ TextureImporter:
       name: pacman_general_sprites_66
       rect:
         serializedVersion: 2
-        x: 162
-        y: 168
+        x: 18
+        y: 136
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1520,11 +1520,11 @@ TextureImporter:
       name: pacman_general_sprites_67
       rect:
         serializedVersion: 2
-        x: 178
-        y: 168
+        x: 34
+        y: 136
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1541,11 +1541,11 @@ TextureImporter:
       name: pacman_general_sprites_68
       rect:
         serializedVersion: 2
-        x: 194
-        y: 168
+        x: 50
+        y: 136
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1562,11 +1562,11 @@ TextureImporter:
       name: pacman_general_sprites_69
       rect:
         serializedVersion: 2
-        x: 210
-        y: 168
+        x: 66
+        y: 136
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1583,11 +1583,11 @@ TextureImporter:
       name: pacman_general_sprites_70
       rect:
         serializedVersion: 2
-        x: 2
-        y: 152
+        x: 82
+        y: 136
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1604,11 +1604,11 @@ TextureImporter:
       name: pacman_general_sprites_71
       rect:
         serializedVersion: 2
-        x: 18
-        y: 152
+        x: 98
+        y: 136
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1625,11 +1625,11 @@ TextureImporter:
       name: pacman_general_sprites_72
       rect:
         serializedVersion: 2
-        x: 34
-        y: 152
+        x: 114
+        y: 136
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1646,11 +1646,11 @@ TextureImporter:
       name: pacman_general_sprites_73
       rect:
         serializedVersion: 2
-        x: 50
-        y: 152
+        x: 130
+        y: 136
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1667,11 +1667,11 @@ TextureImporter:
       name: pacman_general_sprites_74
       rect:
         serializedVersion: 2
-        x: 66
-        y: 152
+        x: 146
+        y: 136
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1688,11 +1688,11 @@ TextureImporter:
       name: pacman_general_sprites_75
       rect:
         serializedVersion: 2
-        x: 82
-        y: 152
+        x: 162
+        y: 136
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1709,11 +1709,11 @@ TextureImporter:
       name: pacman_general_sprites_76
       rect:
         serializedVersion: 2
-        x: 98
-        y: 152
+        x: 178
+        y: 136
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1730,11 +1730,11 @@ TextureImporter:
       name: pacman_general_sprites_77
       rect:
         serializedVersion: 2
-        x: 114
-        y: 152
+        x: 194
+        y: 136
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1751,11 +1751,11 @@ TextureImporter:
       name: pacman_general_sprites_78
       rect:
         serializedVersion: 2
-        x: 130
-        y: 152
+        x: 2
+        y: 120
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1772,11 +1772,11 @@ TextureImporter:
       name: pacman_general_sprites_79
       rect:
         serializedVersion: 2
-        x: 146
-        y: 152
+        x: 18
+        y: 120
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1793,11 +1793,11 @@ TextureImporter:
       name: pacman_general_sprites_80
       rect:
         serializedVersion: 2
-        x: 162
-        y: 152
+        x: 34
+        y: 120
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1814,11 +1814,11 @@ TextureImporter:
       name: pacman_general_sprites_81
       rect:
         serializedVersion: 2
-        x: 178
-        y: 152
+        x: 50
+        y: 120
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1835,11 +1835,11 @@ TextureImporter:
       name: pacman_general_sprites_82
       rect:
         serializedVersion: 2
-        x: 194
-        y: 152
+        x: 66
+        y: 120
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1856,11 +1856,11 @@ TextureImporter:
       name: pacman_general_sprites_83
       rect:
         serializedVersion: 2
-        x: 210
-        y: 152
+        x: 82
+        y: 120
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1877,11 +1877,11 @@ TextureImporter:
       name: pacman_general_sprites_84
       rect:
         serializedVersion: 2
-        x: 2
-        y: 136
+        x: 98
+        y: 120
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1898,11 +1898,11 @@ TextureImporter:
       name: pacman_general_sprites_85
       rect:
         serializedVersion: 2
-        x: 18
-        y: 136
+        x: 114
+        y: 120
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1919,11 +1919,11 @@ TextureImporter:
       name: pacman_general_sprites_86
       rect:
         serializedVersion: 2
-        x: 34
-        y: 136
+        x: 130
+        y: 120
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1940,11 +1940,11 @@ TextureImporter:
       name: pacman_general_sprites_87
       rect:
         serializedVersion: 2
-        x: 50
-        y: 136
+        x: 146
+        y: 120
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1961,11 +1961,11 @@ TextureImporter:
       name: pacman_general_sprites_88
       rect:
         serializedVersion: 2
-        x: 66
-        y: 136
+        x: 162
+        y: 120
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -1982,11 +1982,11 @@ TextureImporter:
       name: pacman_general_sprites_89
       rect:
         serializedVersion: 2
-        x: 82
-        y: 136
+        x: 178
+        y: 120
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2003,11 +2003,11 @@ TextureImporter:
       name: pacman_general_sprites_90
       rect:
         serializedVersion: 2
-        x: 98
-        y: 136
+        x: 2
+        y: 104
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2024,11 +2024,11 @@ TextureImporter:
       name: pacman_general_sprites_91
       rect:
         serializedVersion: 2
-        x: 114
-        y: 136
+        x: 18
+        y: 104
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2045,11 +2045,11 @@ TextureImporter:
       name: pacman_general_sprites_92
       rect:
         serializedVersion: 2
-        x: 130
-        y: 136
+        x: 34
+        y: 104
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2066,11 +2066,11 @@ TextureImporter:
       name: pacman_general_sprites_93
       rect:
         serializedVersion: 2
-        x: 146
-        y: 136
+        x: 50
+        y: 104
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2087,11 +2087,11 @@ TextureImporter:
       name: pacman_general_sprites_94
       rect:
         serializedVersion: 2
-        x: 162
-        y: 136
+        x: 130
+        y: 104
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2108,11 +2108,11 @@ TextureImporter:
       name: pacman_general_sprites_95
       rect:
         serializedVersion: 2
-        x: 178
-        y: 136
+        x: 146
+        y: 104
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2129,11 +2129,11 @@ TextureImporter:
       name: pacman_general_sprites_96
       rect:
         serializedVersion: 2
-        x: 194
-        y: 136
+        x: 162
+        y: 104
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2150,11 +2150,11 @@ TextureImporter:
       name: pacman_general_sprites_97
       rect:
         serializedVersion: 2
-        x: 210
-        y: 136
+        x: 178
+        y: 104
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2172,10 +2172,10 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2
-        y: 120
+        y: 88
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2193,10 +2193,10 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 18
-        y: 120
+        y: 88
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2214,10 +2214,10 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 34
-        y: 120
+        y: 88
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2235,10 +2235,10 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 50
-        y: 120
+        y: 88
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2256,10 +2256,10 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 66
-        y: 120
+        y: 88
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2277,10 +2277,10 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 82
-        y: 120
+        y: 88
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2297,11 +2297,11 @@ TextureImporter:
       name: pacman_general_sprites_104
       rect:
         serializedVersion: 2
-        x: 98
-        y: 120
+        x: 130
+        y: 88
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2318,11 +2318,11 @@ TextureImporter:
       name: pacman_general_sprites_105
       rect:
         serializedVersion: 2
-        x: 114
-        y: 120
+        x: 146
+        y: 88
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2339,11 +2339,11 @@ TextureImporter:
       name: pacman_general_sprites_106
       rect:
         serializedVersion: 2
-        x: 130
-        y: 120
+        x: 162
+        y: 88
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2360,11 +2360,11 @@ TextureImporter:
       name: pacman_general_sprites_107
       rect:
         serializedVersion: 2
-        x: 146
-        y: 120
+        x: 178
+        y: 88
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2381,11 +2381,11 @@ TextureImporter:
       name: pacman_general_sprites_108
       rect:
         serializedVersion: 2
-        x: 162
-        y: 120
+        x: 50
+        y: 72
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2402,11 +2402,11 @@ TextureImporter:
       name: pacman_general_sprites_109
       rect:
         serializedVersion: 2
-        x: 178
-        y: 120
+        x: 66
+        y: 72
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2423,11 +2423,11 @@ TextureImporter:
       name: pacman_general_sprites_110
       rect:
         serializedVersion: 2
-        x: 194
-        y: 120
+        x: 82
+        y: 72
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2444,11 +2444,11 @@ TextureImporter:
       name: pacman_general_sprites_111
       rect:
         serializedVersion: 2
-        x: 210
-        y: 120
+        x: 130
+        y: 72
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2465,11 +2465,11 @@ TextureImporter:
       name: pacman_general_sprites_112
       rect:
         serializedVersion: 2
-        x: 2
-        y: 104
+        x: 146
+        y: 72
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2486,11 +2486,11 @@ TextureImporter:
       name: pacman_general_sprites_113
       rect:
         serializedVersion: 2
-        x: 18
-        y: 104
+        x: 162
+        y: 72
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2507,11 +2507,11 @@ TextureImporter:
       name: pacman_general_sprites_114
       rect:
         serializedVersion: 2
-        x: 34
-        y: 104
+        x: 50
+        y: 56
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2528,11 +2528,11 @@ TextureImporter:
       name: pacman_general_sprites_115
       rect:
         serializedVersion: 2
-        x: 50
-        y: 104
+        x: 66
+        y: 56
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2549,11 +2549,11 @@ TextureImporter:
       name: pacman_general_sprites_116
       rect:
         serializedVersion: 2
-        x: 66
-        y: 104
+        x: 82
+        y: 56
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2570,11 +2570,11 @@ TextureImporter:
       name: pacman_general_sprites_117
       rect:
         serializedVersion: 2
-        x: 82
-        y: 104
+        x: 130
+        y: 56
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2591,11 +2591,11 @@ TextureImporter:
       name: pacman_general_sprites_118
       rect:
         serializedVersion: 2
-        x: 98
-        y: 104
+        x: 146
+        y: 56
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2612,11 +2612,11 @@ TextureImporter:
       name: pacman_general_sprites_119
       rect:
         serializedVersion: 2
-        x: 114
-        y: 104
+        x: 50
+        y: 40
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2633,11 +2633,11 @@ TextureImporter:
       name: pacman_general_sprites_120
       rect:
         serializedVersion: 2
-        x: 130
-        y: 104
+        x: 66
+        y: 40
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2654,11 +2654,11 @@ TextureImporter:
       name: pacman_general_sprites_121
       rect:
         serializedVersion: 2
-        x: 146
-        y: 104
+        x: 82
+        y: 40
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2675,11 +2675,11 @@ TextureImporter:
       name: pacman_general_sprites_122
       rect:
         serializedVersion: 2
-        x: 162
-        y: 104
+        x: 130
+        y: 40
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2696,11 +2696,11 @@ TextureImporter:
       name: pacman_general_sprites_123
       rect:
         serializedVersion: 2
-        x: 178
-        y: 104
+        x: 146
+        y: 40
         width: 16
         height: 16
-      alignment: 9
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -2709,1812 +2709,6 @@ TextureImporter:
       bones: []
       spriteID: a63469c6b453f20458e2ae677ca774b3
       internalID: -762274537
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_124
-      rect:
-        serializedVersion: 2
-        x: 194
-        y: 104
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e8285d9ce3243b4e9ef81e2d1d70ba5
-      internalID: -152143481
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_125
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 104
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 99b055a948f32234f84e1ed37493e864
-      internalID: -1042279523
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_126
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 88
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cf2f4221323046b49b1c5522f86b1e53
-      internalID: -595343651
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_127
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 88
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 90f50a013ada4eb49835796f48481207
-      internalID: 1545888495
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_128
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 88
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ce3affa838e9e9b47b1a5e4169163c8f
-      internalID: 585655778
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_129
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 88
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 48f58d5ba27c06a4ea2978d8fbbba9a8
-      internalID: 1136348215
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_130
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 88
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef588aa032d93ae4bb0808c7b25ba055
-      internalID: 174387417
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_131
-      rect:
-        serializedVersion: 2
-        x: 82
-        y: 88
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 337913b016939a14ca10a92c7252af63
-      internalID: 320622093
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_132
-      rect:
-        serializedVersion: 2
-        x: 98
-        y: 88
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5408c4db50eb3f74aacb562a3a9a2a23
-      internalID: -1392161371
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_133
-      rect:
-        serializedVersion: 2
-        x: 114
-        y: 88
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1b68fa2e75dd04a4689a9a23d5be099e
-      internalID: -2054177271
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_134
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 88
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fa00201220573a7458f693d27a3cc646
-      internalID: -1658019473
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_135
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 88
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cec3d7d4e5dcfcd4a9a12d59af374ba1
-      internalID: -1867068710
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_136
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 88
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4fb69c48bd6d5d6458fc79ad00a39271
-      internalID: 1089643582
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_137
-      rect:
-        serializedVersion: 2
-        x: 178
-        y: 88
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f14b16cf4bc6b0c4baa90e14af4492ad
-      internalID: -566429462
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_138
-      rect:
-        serializedVersion: 2
-        x: 194
-        y: 88
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c66cbb9b15b2ddc4a9f37917830e5610
-      internalID: -1265466225
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_139
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 88
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 15e3c6f24cd8aaa4d89a2ba708fa7810
-      internalID: -1443190680
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_140
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 72
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dbd2bab4e68ac87419ecde326e29a587
-      internalID: 2073854644
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_141
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 72
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a3b5a215186a13549a15bee9bc3c6378
-      internalID: 1871600941
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_142
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 72
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a42492489dddcb34eb10ed710180cfb7
-      internalID: -641926787
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_143
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 72
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f51b94e3d6437aa4580a3925911ef411
-      internalID: 2009162206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_144
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 72
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1d177f06d4895bd4a9c804e6b0bd43b4
-      internalID: -1702665207
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_145
-      rect:
-        serializedVersion: 2
-        x: 82
-        y: 72
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aee6d4fd16bcf2c48b6776e504fc6eb7
-      internalID: -942260781
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_146
-      rect:
-        serializedVersion: 2
-        x: 98
-        y: 72
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e400e4aaafba634eac08b149ce9a931
-      internalID: -909651915
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_147
-      rect:
-        serializedVersion: 2
-        x: 114
-        y: 72
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b70ce0a80c611b84ba464d3aa8671666
-      internalID: 1349625586
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_148
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 72
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2fb0bfd1aad0b641bfbd5830b596b71
-      internalID: -1925003112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_149
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 72
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fa451e5cd11885244a3fc51f5481cc75
-      internalID: 2032937631
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_150
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 72
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e5f6eacb73fadc14bac628f3ed43284e
-      internalID: -703541568
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_151
-      rect:
-        serializedVersion: 2
-        x: 178
-        y: 72
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1e2f590193801714ea6555872c6f6753
-      internalID: -1999848800
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_152
-      rect:
-        serializedVersion: 2
-        x: 194
-        y: 72
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9f46c84a7f7cd1344a2d3df400e38a04
-      internalID: 516864950
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_153
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 72
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 81f0f4071f29310478170c4f2f47c1fc
-      internalID: 256733560
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_154
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 56
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d257a3bf5356b94fadebd5bdf25fea6
-      internalID: -1737230650
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_155
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 56
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f957f153c424ae740916e6fb415a7bf3
-      internalID: -314530829
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_156
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 56
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8fd1f27b5c3a14343958b52549fa557f
-      internalID: -1107874506
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_157
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 56
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a799521e4ad76284ebfb6dc17479929a
-      internalID: 559862503
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_158
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 56
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f01d2c8f10ad56b4bad23d539d913c49
-      internalID: -1740305564
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_159
-      rect:
-        serializedVersion: 2
-        x: 82
-        y: 56
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0611f6223ffdfd64a8b925a0217935c0
-      internalID: 1161021259
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_160
-      rect:
-        serializedVersion: 2
-        x: 98
-        y: 56
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 20f3e3115bcedef4c9f1bdaa78160cc0
-      internalID: -879144716
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_161
-      rect:
-        serializedVersion: 2
-        x: 114
-        y: 56
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cd76a78e406eb5a4d935c64571c185dd
-      internalID: -349137402
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_162
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 56
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5c9e5223907f88043bd2688c6d6ac902
-      internalID: -32579127
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_163
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 56
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dc2a755493e1758458c7f9787236f7cc
-      internalID: -1547014986
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_164
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 56
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 987df846867fb2e498f1c870f589ddfb
-      internalID: -367696657
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_165
-      rect:
-        serializedVersion: 2
-        x: 178
-        y: 56
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 52088c0f87997b3438f861309fb6e072
-      internalID: -585119113
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_166
-      rect:
-        serializedVersion: 2
-        x: 194
-        y: 56
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4cf195bf9c470ea4690071a9f0e5d183
-      internalID: -1231954612
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_167
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 56
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a8d803d7332b5ed43859ee1feae5350d
-      internalID: -973132088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_168
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 40
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2a6f98cace4d71846ae7d27b95e6f7e1
-      internalID: -185011647
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_169
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 40
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 10867c4ab5a718545a9f5d2a8f7f276e
-      internalID: -1928336825
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_170
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 40
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9b7e29518e5a94a4ebf4d6f34f4e4baf
-      internalID: 1198762463
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_171
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 40
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2fcd09994d29fd440b41886c0e39e5e7
-      internalID: -1386980386
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_172
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 40
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cfe68ac037bcfaf4aa50ce2ca0dd663f
-      internalID: 365975119
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_173
-      rect:
-        serializedVersion: 2
-        x: 82
-        y: 40
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9e5bdfbebab120244a302c4aadee4124
-      internalID: 1219369344
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_174
-      rect:
-        serializedVersion: 2
-        x: 98
-        y: 40
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c407983bffd2cf744822f73b884b19c9
-      internalID: 1691684591
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_175
-      rect:
-        serializedVersion: 2
-        x: 114
-        y: 40
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d91467d20fb4ce48b25eb9b5a339671
-      internalID: 2045829328
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_176
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 40
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 580fc8889c8d5844fb9b95d59b5a561e
-      internalID: -1616343470
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_177
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 40
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1f1c958d72d0a8b40959b22ea3459f82
-      internalID: -1821168032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_178
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 40
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ad53186f9cbbd25418f13a6c91c0d9b2
-      internalID: -1143480673
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_179
-      rect:
-        serializedVersion: 2
-        x: 178
-        y: 40
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c16bc27ea93374e4cb20e7790b1cb564
-      internalID: -2034068374
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_180
-      rect:
-        serializedVersion: 2
-        x: 194
-        y: 40
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4a57c8f07eb2fd84597c904f3c322795
-      internalID: -231154983
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_181
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 40
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 270f78686d12d2e4e92e1f4845a0bc68
-      internalID: -956349666
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_182
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 24
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f43bb905c7024af4c8a1444f510f43d1
-      internalID: -1559427738
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_183
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 24
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 96c281dcc6dd1e048a85794c8805ba03
-      internalID: 65249505
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_184
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 24
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5d64d78f4467c8941a5218a39c840b6b
-      internalID: 2030946745
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_185
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 24
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ead5732581f06734eb2e42f844601a72
-      internalID: -1913073044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_186
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 24
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f174c826d3e48e047ac8851344d9ff93
-      internalID: 195015929
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_187
-      rect:
-        serializedVersion: 2
-        x: 82
-        y: 24
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0363062e00288f841916ade82b5fadf3
-      internalID: 2027773087
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_188
-      rect:
-        serializedVersion: 2
-        x: 98
-        y: 24
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 854cc83fdca1b52459c4bca9268c217b
-      internalID: -2112982602
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_189
-      rect:
-        serializedVersion: 2
-        x: 114
-        y: 24
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b8b71ef696f1a824281efd22ef704354
-      internalID: 871832514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_190
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 24
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 786e9883ef2dd6b41b1df6cd9f9e65a4
-      internalID: 1894656233
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_191
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 24
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5eb97e9860c039042b8633b4000bc5de
-      internalID: -1048774219
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_192
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 24
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 55d6eeac2e60d284199330186e5e9acc
-      internalID: -484380120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_193
-      rect:
-        serializedVersion: 2
-        x: 178
-        y: 24
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 099103b5caf11f7439d39249fbc25fa9
-      internalID: -1295988756
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_194
-      rect:
-        serializedVersion: 2
-        x: 194
-        y: 24
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 55e41c08312878447af3c435f2880529
-      internalID: 1355189750
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_195
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 24
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6de8370cd18edba479eb3a55b8b2459c
-      internalID: -1915967813
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_196
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 8
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4f04d3687c7b912409cb5821c880ebf4
-      internalID: 697811815
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_197
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 8
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1e4c53591548ca140be58ae9d2d4757d
-      internalID: 10293025
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_198
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 8
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9f0fcb7c6fdec154291a08bff5869084
-      internalID: 1837897406
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_199
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 8
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 353de6c1481bc9941b5326f85f4540a2
-      internalID: -751968869
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_200
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 8
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f0a65a892c451c44991858a27583f5e2
-      internalID: 1519619539
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_201
-      rect:
-        serializedVersion: 2
-        x: 82
-        y: 8
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3256a1c21342c5940b34214299cc3bed
-      internalID: 1252991599
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_202
-      rect:
-        serializedVersion: 2
-        x: 98
-        y: 8
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cfa11acf95907a04088181854ed1fb6c
-      internalID: -985575111
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_203
-      rect:
-        serializedVersion: 2
-        x: 114
-        y: 8
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1da279446cef9a543a747b4ba40361be
-      internalID: 1874987334
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_204
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 8
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 28e235076edf9c240b3f6c6ef1211768
-      internalID: -5690925
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_205
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 8
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 67273cd9c2acf494f9d26a9dcfe1dd7c
-      internalID: 213609165
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_206
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 8
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9f3ef52f0f50f4343af97b5153fea921
-      internalID: -473730177
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_207
-      rect:
-        serializedVersion: 2
-        x: 178
-        y: 8
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0bb9ea31562544749a0bcf04b652d517
-      internalID: -1356814285
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_208
-      rect:
-        serializedVersion: 2
-        x: 194
-        y: 8
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 48a335bc509092e4aadccd0c261c0613
-      internalID: 105045001
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_general_sprites_209
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 8
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 951c93406a5e9f848955c49ada887a34
-      internalID: 365773566
       vertices: []
       indices: 
       edges: []
@@ -4559,101 +2753,15 @@ TextureImporter:
       pacman_general_sprites_121: -1589683449
       pacman_general_sprites_122: -589309774
       pacman_general_sprites_123: -762274537
-      pacman_general_sprites_124: -152143481
-      pacman_general_sprites_125: -1042279523
-      pacman_general_sprites_126: -595343651
-      pacman_general_sprites_127: 1545888495
-      pacman_general_sprites_128: 585655778
-      pacman_general_sprites_129: 1136348215
       pacman_general_sprites_13: 818664829
-      pacman_general_sprites_130: 174387417
-      pacman_general_sprites_131: 320622093
-      pacman_general_sprites_132: -1392161371
-      pacman_general_sprites_133: -2054177271
-      pacman_general_sprites_134: -1658019473
-      pacman_general_sprites_135: -1867068710
-      pacman_general_sprites_136: 1089643582
-      pacman_general_sprites_137: -566429462
-      pacman_general_sprites_138: -1265466225
-      pacman_general_sprites_139: -1443190680
       pacman_general_sprites_14: -1608197353
-      pacman_general_sprites_140: 2073854644
-      pacman_general_sprites_141: 1871600941
-      pacman_general_sprites_142: -641926787
-      pacman_general_sprites_143: 2009162206
-      pacman_general_sprites_144: -1702665207
-      pacman_general_sprites_145: -942260781
-      pacman_general_sprites_146: -909651915
-      pacman_general_sprites_147: 1349625586
-      pacman_general_sprites_148: -1925003112
-      pacman_general_sprites_149: 2032937631
       pacman_general_sprites_15: -905864628
-      pacman_general_sprites_150: -703541568
-      pacman_general_sprites_151: -1999848800
-      pacman_general_sprites_152: 516864950
-      pacman_general_sprites_153: 256733560
-      pacman_general_sprites_154: -1737230650
-      pacman_general_sprites_155: -314530829
-      pacman_general_sprites_156: -1107874506
-      pacman_general_sprites_157: 559862503
-      pacman_general_sprites_158: -1740305564
-      pacman_general_sprites_159: 1161021259
       pacman_general_sprites_16: -1094349459
-      pacman_general_sprites_160: -879144716
-      pacman_general_sprites_161: -349137402
-      pacman_general_sprites_162: -32579127
-      pacman_general_sprites_163: -1547014986
-      pacman_general_sprites_164: -367696657
-      pacman_general_sprites_165: -585119113
-      pacman_general_sprites_166: -1231954612
-      pacman_general_sprites_167: -973132088
-      pacman_general_sprites_168: -185011647
-      pacman_general_sprites_169: -1928336825
       pacman_general_sprites_17: -792523881
-      pacman_general_sprites_170: 1198762463
-      pacman_general_sprites_171: -1386980386
-      pacman_general_sprites_172: 365975119
-      pacman_general_sprites_173: 1219369344
-      pacman_general_sprites_174: 1691684591
-      pacman_general_sprites_175: 2045829328
-      pacman_general_sprites_176: -1616343470
-      pacman_general_sprites_177: -1821168032
-      pacman_general_sprites_178: -1143480673
-      pacman_general_sprites_179: -2034068374
       pacman_general_sprites_18: -728030057
-      pacman_general_sprites_180: -231154983
-      pacman_general_sprites_181: -956349666
-      pacman_general_sprites_182: -1559427738
-      pacman_general_sprites_183: 65249505
-      pacman_general_sprites_184: 2030946745
-      pacman_general_sprites_185: -1913073044
-      pacman_general_sprites_186: 195015929
-      pacman_general_sprites_187: 2027773087
-      pacman_general_sprites_188: -2112982602
-      pacman_general_sprites_189: 871832514
       pacman_general_sprites_19: -2003073854
-      pacman_general_sprites_190: 1894656233
-      pacman_general_sprites_191: -1048774219
-      pacman_general_sprites_192: -484380120
-      pacman_general_sprites_193: -1295988756
-      pacman_general_sprites_194: 1355189750
-      pacman_general_sprites_195: -1915967813
-      pacman_general_sprites_196: 697811815
-      pacman_general_sprites_197: 10293025
-      pacman_general_sprites_198: 1837897406
-      pacman_general_sprites_199: -751968869
       pacman_general_sprites_2: 2065953509
       pacman_general_sprites_20: -1547187747
-      pacman_general_sprites_200: 1519619539
-      pacman_general_sprites_201: 1252991599
-      pacman_general_sprites_202: -985575111
-      pacman_general_sprites_203: 1874987334
-      pacman_general_sprites_204: -5690925
-      pacman_general_sprites_205: 213609165
-      pacman_general_sprites_206: -473730177
-      pacman_general_sprites_207: -1356814285
-      pacman_general_sprites_208: 105045001
-      pacman_general_sprites_209: 365773566
       pacman_general_sprites_21: 1313215849
       pacman_general_sprites_22: -1730366909
       pacman_general_sprites_23: -617392145

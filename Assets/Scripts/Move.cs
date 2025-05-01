@@ -24,7 +24,7 @@ public class Move : MonoBehaviour
     // Box casts a box the size of sprite, shifted rayLength units towards the front
     private RaycastHit2D boxCast(Vector2 direction) {
         Vector2 size = new Vector2(_spriteRenderer.bounds.size.x, _spriteRenderer.bounds.size.y);
-        Vector2 origin = _rigidbody.position + size / 2;
+        Vector2 origin = _rigidbody.position;
 
         return Physics2D.BoxCast(origin, size, 0f, direction, _rayLength, _obstaclesLayer);
     }
@@ -56,7 +56,7 @@ public class Move : MonoBehaviour
     void OnDrawGizmos() {
         if (_rigidbody == null || _spriteRenderer == null) return;
         Vector2 size = new Vector2(_spriteRenderer.bounds.size.x, _spriteRenderer.bounds.size.y);
-        Vector2 origin = _rigidbody.position + size / 2;
+        Vector2 origin = _rigidbody.position;
         Vector2 direction = _nextMoveVector;
         Vector2 endPoint = origin + (direction * _rayLength);
 
@@ -75,15 +75,10 @@ public class Move : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other) {
         if (other.gameObject.tag == "Mirror") {
-            if (!_isMirroring) transform.position = new Vector3(-transform.position.x, transform.position.y, transform.position.z);
+            float offset = (transform.position.x > 0) ? -_rayLength : _rayLength;
+            if (!_isMirroring) transform.position = new Vector3(-(transform.position.x + offset), transform.position.y, transform.position.z);
             _isMirroring = true;
-        }
-    }
-
-    void OnTriggerExit2D(Collider2D other) {
-        if (other.gameObject.tag == "Mirror") {
-            _isMirroring = false;
-        }
+        } else _isMirroring = false;
     }
     
     void FixedUpdate()
