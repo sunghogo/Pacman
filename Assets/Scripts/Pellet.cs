@@ -25,5 +25,4 @@ public class Pellet : MonoBehaviour
             if (isWithinDistance) EatPellet();
         }
     }
-    
 }

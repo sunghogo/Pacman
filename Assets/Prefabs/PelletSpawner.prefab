@@ -45,3 +45,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _pelletPrefab: {fileID: 4787047601019030115, guid: fbf78eb7b9e5a4f839420297ebd3da35, type: 3}
+  _powerBulletPrefab: {fileID: 9003903980303618949, guid: f7e00fb956a964b578a411fa966843d2, type: 3}
