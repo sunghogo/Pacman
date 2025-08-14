@@ -143,4 +143,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: edb703f6b77844cc0bff7699cccfd237, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  eatDistance: 0
+  _eatDistance: 0
+  gameState: {fileID: 11400000, guid: 55b4085d675b64a9587b4f52c48f899c, type: 2}
