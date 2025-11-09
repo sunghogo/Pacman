@@ -16,7 +16,7 @@ public class Score : MonoBehaviour
     {
         _textMeshPro = GetComponent<TextMeshProUGUI>();
         _rectTransform = GetComponent<RectTransform>();
-        _textMeshPro.text = GameManager.score.ToString();
+        _textMeshPro.text = GameManager.Instance.Score.ToString();
         _width = FONTWIDTH + OFFSET;
         _digits = 0;
         _counter = 10;
@@ -24,13 +24,13 @@ public class Score : MonoBehaviour
 
     void FixedUpdate()
     {
-        bool isDigitIncreasing = (GameManager.score / _counter) > 0;
+        bool isDigitIncreasing = (GameManager.Instance.Score / _counter) > 0;
         if (isDigitIncreasing) {
             _digits++;
             _counter *= 10;
             _width = OFFSET + FONTWIDTH * (_digits + 1);
             _rectTransform.sizeDelta = new Vector2(_width, _rectTransform.sizeDelta.y);
         }
-        _textMeshPro.text = GameManager.score.ToString();
+        _textMeshPro.text = GameManager.Instance.Score.ToString();
     }
 }

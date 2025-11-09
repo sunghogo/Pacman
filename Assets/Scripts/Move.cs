@@ -83,7 +83,7 @@ public class Move : MonoBehaviour
     
     void FixedUpdate()
     {
-        if (GameManager.isStarted) {
+        if (GameManager.Instance.IsStarted) {
             if (_moveVector == Vector2.zero) {
                 _animator.enabled = false;
             } else {

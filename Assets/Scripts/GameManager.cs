@@ -3,24 +3,32 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance { get; private set;}
-    public static uint score { get; private set;}
-    public static uint highScore { get; private set;}
-    public static bool isStarted { get; private set; }
+    public uint Score { get; private set;}
+    public uint HighScore { get; private set;}
+    public bool IsStarted { get; private set; }
+    public GameState gameState;
 
-    public static void StartGame()
+    public void StartGame()
     {
-        isStarted = true;   
+        IsStarted = true;
+        Score = 0;
+        HighScore = gameState.highScore;
     }
 
-    public static void IncrementScore(uint n) {
-        score += n;
+    public void IncrementScore(uint n) {
+        Score += n;
+        if (Score > HighScore)
+        {
+            HighScore = Score;
+            gameState.highScore = HighScore;
+        }
     }
 
     void Awake()
     {
         if (Instance == null) {
             Instance = this;
-            isStarted = false;
+            IsStarted = false;
             DontDestroyOnLoad(gameObject); // Persist across scenes
         } else {
             Destroy(gameObject); // Destroy any duplicate GameManager instances
@@ -28,10 +36,10 @@ public class GameManager : MonoBehaviour
     }
 
     void Start() {
-        score = highScore = 0;
+        Score = HighScore = 0;
     }
 
     void FixedUpdate() {
-        if (score > highScore) highScore = score;
+        if (Score > HighScore) HighScore = Score;
     }
 }

@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class PowerBullet : MonoBehaviour
 {
-    [SerializeField] private float _eatDistance;
-    private Collider2D _collider2D;
+    [SerializeField] float _eatDistance;
+     Collider2D _collider2D;
 
     void Start()
     {
@@ -11,8 +11,8 @@ public class PowerBullet : MonoBehaviour
         _eatDistance = 0.25f;   
     }
 
-    private void EatBullet() {
-        GameManager.IncrementScore(50);
+    void EatBullet() {
+        GameManager.Instance.IncrementScore(50);
         Destroy(gameObject);
     }
     

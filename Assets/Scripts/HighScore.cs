@@ -16,7 +16,7 @@ public class HighScore : MonoBehaviour
     {
         _textMeshPro = GetComponent<TextMeshProUGUI>();
         _rectTransform = GetComponent<RectTransform>();
-        _textMeshPro.text = GameManager.highScore.ToString();
+        _textMeshPro.text = GameManager.Instance.HighScore.ToString();
         _width = FONTWIDTH + OFFSET;
         _digits = 0;
         _counter = 10;
@@ -24,13 +24,13 @@ public class HighScore : MonoBehaviour
 
     void FixedUpdate()
     {
-        bool isDigitIncreasing = (GameManager.highScore / _counter) > 0;
+        bool isDigitIncreasing = (GameManager.Instance.HighScore / _counter) > 0;
         if (isDigitIncreasing) {
             _digits++;
             _counter *= 10;
             _width = OFFSET + FONTWIDTH * (_digits + 1);
             _rectTransform.sizeDelta = new Vector2(_width, _rectTransform.sizeDelta.y);
         }
-        _textMeshPro.text = GameManager.highScore.ToString();
+        _textMeshPro.text = GameManager.Instance.HighScore.ToString();
     }
 }

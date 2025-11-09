@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class Pellet : MonoBehaviour
 {
-    [SerializeField] private float _eatDistance;
-    private Collider2D _collider2D;
+    [SerializeField] float _eatDistance;
+    Collider2D _collider2D;
     public GameState gameState;
 
     void Start()
@@ -12,10 +12,8 @@ public class Pellet : MonoBehaviour
         _eatDistance = 0.25f;
     }
 
-    private void EatPellet() {
-        // GameManager.IncrementScore(10);
-        gameState.score += 10;
-        Debug.Log(gameState.score);
+    void EatPellet() {
+        GameManager.Instance.IncrementScore(10);
         Destroy(gameObject);
     }
     
